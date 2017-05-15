@@ -24,7 +24,7 @@ var About = (props) => {
         <div>
             <h1 className='text-center'>About</h1>
             <p>
-                Weather application build on React.
+               Async weather application build on React.
             </p>
             <p>
                 Here are some of the tools I used:
